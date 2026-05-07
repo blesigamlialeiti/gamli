@@ -6,36 +6,36 @@
       "name": "Reykjavik",
       "results": [
         {
-          "party": "Green Party",
+          "party": "Framsókn",
           "percent": 18.7,
           "seats": 5,
           "change": 1,
-          "color": "#2f6b55",
-          "logo": "https://dummyimage.com/64x64/2f6b55/ffffff.png&text=G"
+          "color": "#2E7D32",
+          "logo": "https://visir.is/static/files/uploads/framsokn45.svg"
         },
         {
-          "party": "Orange Party",
+          "party": "Viðreisn",
           "percent": 5.2,
           "seats": 3,
           "change": -2,
-          "color": "#d7aa6d",
-          "logo": "https://dummyimage.com/64x64/d7aa6d/ffffff.png&text=O"
+          "color": "#FB9B40",
+          "logo": "https://visir.is/static/files/uploads/vidreisn45.svg"
         },
         {
-          "party": "Blue Party",
+          "party": "Sjálfstæðisflokkur",
           "percent": 24.5,
           "seats": 8,
           "change": 3,
-          "color": "#7ea0d1",
-          "logo": "https://dummyimage.com/64x64/7ea0d1/ffffff.png&text=B"
+          "color": "#2F5DA9",
+          "logo": "https://visir.is/static/files/uploads/falkinn45.png"
         },
         {
-          "party": "Red Party",
+          "party": "Samfylking",
           "percent": 23.3,
           "seats": 5,
           "change": 0,
-          "color": "#d97b7b",
-          "logo": "https://dummyimage.com/64x64/d97b7b/ffffff.png&text=R"
+          "color": "#E53935",
+          "logo": "https://visir.is/static/files/uploads/samfylkingin3.svg"
         }
       ]
     },
