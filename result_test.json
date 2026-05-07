@@ -10,7 +10,7 @@
           "percent": 18.7,
           "seats": 5,
           "change": 1,
-          "color": "#2E7D32",
+          "color": "#2B6543",
           "logo": "https://visir.is/static/files/uploads/framsokn45.svg"
         },
         {
@@ -18,7 +18,7 @@
           "percent": 5.2,
           "seats": 3,
           "change": -2,
-          "color": "#FB9B40",
+          "color": "#DC913A",
           "logo": "https://visir.is/static/files/uploads/vidreisn45.svg"
         },
         {
@@ -26,7 +26,7 @@
           "percent": 24.5,
           "seats": 8,
           "change": 3,
-          "color": "#2F5DA9",
+          "color": "#5A8ED4",
           "logo": "https://visir.is/static/files/uploads/falkinn45.png"
         },
         {
@@ -34,7 +34,7 @@
           "percent": 23.3,
           "seats": 5,
           "change": 0,
-          "color": "#E53935",
+          "color": "#D04848",
           "logo": "https://visir.is/static/files/uploads/samfylkingin3.svg"
         }
       ]
