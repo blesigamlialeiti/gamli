@@ -14,7 +14,7 @@
           "logo": "https://visir.is/static/files/uploads/vinstrid45b.svg"
         },
         {
-          "party": "Framsókn",
+          "party": "B - Framsókn",
           "percent": 5.7,
           "seats": 1,
           "change": -3,
@@ -22,7 +22,7 @@
           "logo": "https://visir.is/static/files/uploads/framsokn45.svg"
         },
         {
-          "party": "Viðreisn",
+          "party": "C - Viðreisn",
           "percent": 12.6,
           "seats": 3,
           "change": 2,
@@ -30,7 +30,7 @@
           "logo": "https://visir.is/static/files/uploads/vidreisn45.svg"
         },
         {
-          "party": "Sjálfstæðisflokkur",
+          "party": "D - Sjálfstæðisflokkurinn",
           "percent": 27.9,
           "seats": 8,
           "change": 2,
@@ -38,7 +38,7 @@
           "logo": "https://visir.is/static/files/uploads/falkinn45.png"
         },
         {
-          "party": "Flokkur fólksins",
+          "party": "F - Flokkur fólksins",
           "percent": 2.8,
           "seats": 0,
           "change": -1,
@@ -46,7 +46,7 @@
           "logo": "https://visir.is/static/files/uploads/flokkurfolksins45.svg"
         },
         {
-          "party": "Góðan daginn",
+          "party": "G - Góðan daginn",
           "percent": 1.4,
           "seats": 0,
           "change": 0,
@@ -54,7 +54,7 @@
           "logo": "https://visir.is/static/files/uploads/godandaginn500.svg"
         },
         {
-          "party": "Sósíalistar",
+          "party": "J - Sósíalistar",
           "percent": 5.1,
           "seats": 1,
           "change": -1,
@@ -62,7 +62,7 @@
           "logo": "https://visir.is/static/files/uploads/sosialistar45.svg"
         },
         {
-          "party": "Miðflokkurinn",
+          "party": "M - Miðflokkurinn",
           "percent": 6.7,
           "seats": 1,
           "change": 1,
@@ -70,7 +70,7 @@
           "logo": "https://visir.is/static/files/uploads/midflokkurinn45.svg"
         },
         {
-          "party": "Píratar",
+          "party": "P - Píratar",
           "percent": 4.9,
           "seats": 1,
           "change": -2,
@@ -78,7 +78,7 @@
           "logo": "https://visir.is/static/files/uploads/piratar45.svg"
         },
         {
-          "party": "Okkar borg",
+          "party": "R - Okkar borg",
           "percent": 1.6,
           "seats": 0,
           "change": 0,
@@ -86,7 +86,7 @@
           "logo": "https://visir.is/static/files/uploads/okkarborg45.png"
         },
         {
-          "party": "Samfylking",
+          "party": "S - Samfylkingin",
           "percent": 18.0,
           "seats": 5,
           "change": 0,
@@ -117,7 +117,7 @@
           "logo": "https://visir.is/static/files/uploads/vidreisn45.svg"
         },
         {
-          "party": "Sjálfstæðisflokkur",
+          "party": "D - Sjálfstæðisflokkurinn",
           "percent": 37.3,
           "seats": 5,
           "change": 1,
@@ -125,7 +125,7 @@
           "logo": "https://visir.is/static/files/uploads/falkinn45.png"
         },
         {
-          "party": "Sósíalistar",
+          "party": "J - Sósíalistar",
           "percent": 3.3,
           "seats": 0,
           "change": 0,
@@ -133,7 +133,7 @@
           "logo": "https://visir.is/static/files/uploads/sosialistar45.svg"
         },
         {
-          "party": "Miðflokkurinn",
+          "party": "M - Miðflokkurinn",
           "percent": 11.2,
           "seats": 1,
           "change": 1,
@@ -141,13 +141,77 @@
           "logo": "https://visir.is/static/files/uploads/midflokkurinn45.svg"
         },
         {
-          "party": "Samfylking",
+          "party": "S - Samfylkingin",
           "percent": 23.2,
           "seats": 3,
           "change": 2,
           "color": "#D04848",
           "logo": "https://visir.is/static/files/uploads/samfylkingin3.svg"
-        }
+        },
+         {
+          "party": "V - Vinstri græn og óháð",
+          "percent": 5.3,
+          "seats": 0,
+          "change": 0,
+          "color": "#9dc09b",
+          "logo": "https://visir.is/static/files/uploads/vg45.svg"
+        },
+      ]
+    },
+
+     {
+      "id": "hafnarfjordur",
+      "name": "Hafnarfjörður - könnun Maskínu 29. apríl",
+      "results": [
+        {
+          "party": "A - Vinstrið",
+          "percent": 6.8,
+          "seats": 0,
+          "change": 0,
+          "color": "#9dc09b",
+          "logo": "https://visir.is/static/files/uploads/vinstrid45.svg"
+        },
+         {
+          "party": "B - Framsókn",
+          "percent": 14.9,
+          "seats": 2,
+          "change": 0,
+          "color": "#2B6543",
+          "logo": "https://visir.is/static/files/uploads/framsokn45.svg"
+        },
+        {
+          "party": "C - Viðreisn",
+          "percent": 22.4,
+          "seats": 3,
+          "change": 2,
+          "color": "#DC913A",
+          "logo": "https://visir.is/static/files/uploads/vidreisn45.svg"
+        },
+        {
+          "party": "D - Sjálfstæðisflokkurinn",
+          "percent": 22.1,
+          "seats": 2,
+          "change": -2,
+          "color": "#5A8ED4",
+          "logo": "https://visir.is/static/files/uploads/falkinn45.png"
+        },
+        {
+          "party": "M - Miðflokkurinn",
+          "percent": 9.7,
+          "seats": 1,
+          "change": 1,
+          "color": "#15296F",
+          "logo": "https://visir.is/static/files/uploads/midflokkurinn45.svg"
+        },
+        {
+          "party": "S - Samfylkingin",
+          "percent": 24.2,
+          "seats": 3,
+          "change": -1,
+          "color": "#D04848",
+          "logo": "https://visir.is/static/files/uploads/samfylkingin3.svg"
+        },
+         
       ]
     }
   ]
