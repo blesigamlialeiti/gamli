@@ -155,13 +155,13 @@
           "change": 0,
           "color": "#9dc09b",
           "logo": "https://visir.is/static/files/uploads/vg45.svg"
-        },
+        }
       ]
     },
 
      {
       "id": "hafnarfjordur",
-      "name": "Hafnarfjörður - könnun Maskínu 29. apríl",
+      "name": "Hafnarfjörður - könnun Maskínu 29. apr",
       "results": [
         {
           "party": "A - Vinstrið",
@@ -210,8 +210,7 @@
           "change": -1,
           "color": "#D04848",
           "logo": "https://visir.is/static/files/uploads/samfylkingin3.svg"
-        },
-         
+        }
       ]
     }
   ]
