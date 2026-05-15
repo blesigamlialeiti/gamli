@@ -1,0 +1,1090 @@
+{
+    "areas": [
+        {
+            "id": "reykjavik",
+            "name": "Reykjavík",
+            "results": [
+                {
+                    "party": "S - Samfylkingin",
+                    "percent": 24.4,
+                    "seats": 6,
+                    "change": -1,
+                    "color": "#D04848",
+                    "logo": "https://visir.is/static/files/uploads/samfylkingin3.svg"
+                },
+                {
+                    "party": "R - Okkar borg",
+                    "percent": 0.1,
+                    "seats": 0,
+                    "change": 0,
+                    "color": "#39457F",
+                    "logo": "https://visir.is/static/files/uploads/okkarborg45.png"
+                },
+                {
+                    "party": "P - Píratar",
+                    "percent": 9.7,
+                    "seats": 2,
+                    "change": 0,
+                    "color": "#87789F",
+                    "logo": "https://visir.is/static/files/uploads/piratar45.svg"
+                },
+                {
+                    "party": "M - Miðflokkurinn",
+                    "percent": 6.1,
+                    "seats": 1,
+                    "change": 0,
+                    "color": "#3A5981",
+                    "logo": "https://visir.is/static/files/uploads/midflokkurinn45.svg"
+                },
+                {
+                    "party": "J - Sósíalistaflokkur Íslands",
+                    "percent": 1.2,
+                    "seats": 0,
+                    "change": -1,
+                    "color": "#C9857D",
+                    "logo": "https://visir.is/static/files/uploads/sosialistar45.svg"
+                },
+                {
+                    "party": "G - Góðan daginn",
+                    "percent": 1.2,
+                    "seats": 0,
+                    "change": 0,
+                    "color": "#A8BB66",
+                    "logo": "https://visir.is/static/files/uploads/godandaginn500.svg"
+                },
+                {
+                    "party": "F - Flokkur fólksins",
+                    "percent": 1.2,
+                    "seats": 0,
+                    "change": -1,
+                    "color": "#E3C167",
+                    "logo": "https://visir.is/static/files/uploads/flokkurfolksins45.svg"
+                },
+                {
+                    "party": "D - Sjálfstæðisflokkur",
+                    "percent": 24.4,
+                    "seats": 6,
+                    "change": -2,
+                    "color": "#5A8ED4",
+                    "logo": "https://visir.is/static/files/uploads/falkinn45.png"
+                },
+                {
+                    "party": "C - Viðreisn",
+                    "percent": 18.3,
+                    "seats": 5,
+                    "change": 3,
+                    "color": "#DC913A",
+                    "logo": "https://visir.is/static/files/uploads/vidreisn45.svg"
+                },
+                {
+                    "party": "B - Framsóknarflokkur",
+                    "percent": 12.2,
+                    "seats": 3,
+                    "change": 3,
+                    "color": "#2B6543",
+                    "logo": "https://visir.is/static/files/uploads/framsokn45.svg"
+                },
+                {
+                    "party": "A - Vinstrið",
+                    "percent": 1.2,
+                    "seats": 0,
+                    "change": 0,
+                    "color": "#80AD81",
+                    "logo": "https://visir.is/static/files/uploads/vinstrid45b.svg"
+                }
+            ]
+        },
+        {
+            "id": "kopavogur",
+            "name": "Kópavogur",
+            "results": [
+                {
+                    "party": "V - Vinstri græn",
+                    "percent": 0,
+                    "seats": 0,
+                    "change": 0,
+                    "color": "#80AD81",
+                    "logo": "https://visir.is/static/files/uploads/vg45.svg"
+                },
+                {
+                    "party": "S - Samfylkingin",
+                    "percent": 0,
+                    "seats": 0,
+                    "change": 0,
+                    "color": "#D04848",
+                    "logo": "https://visir.is/static/files/uploads/samfylkingin3.svg"
+                },
+                {
+                    "party": "M - Miðflokkurinn",
+                    "percent": 0,
+                    "seats": 0,
+                    "change": 0,
+                    "color": "#3A5981",
+                    "logo": "https://visir.is/static/files/uploads/midflokkurinn45.svg"
+                },
+                {
+                    "party": "J - Sósíalistaflokkurinn",
+                    "percent": 0,
+                    "seats": 0,
+                    "change": 0,
+                    "color": "#C9857D",
+                    "logo": "https://visir.is/static/files/uploads/sosialistar45.svg"
+                },
+                {
+                    "party": "D - Sjálfstæðisflokkur",
+                    "percent": 0,
+                    "seats": 0,
+                    "change": 0,
+                    "color": "#5A8ED4",
+                    "logo": "https://visir.is/static/files/uploads/falkinn45.png"
+                },
+                {
+                    "party": "C - Viðreisn",
+                    "percent": 0,
+                    "seats": 0,
+                    "change": 0,
+                    "color": "#DC913A",
+                    "logo": "https://visir.is/static/files/uploads/vidreisn45.svg"
+                },
+                {
+                    "party": "B - Framsóknarflokkur",
+                    "percent": 10,
+                    "seats": 0,
+                    "change": 0,
+                    "color": "#2B6543",
+                    "logo": "https://visir.is/static/files/uploads/framsokn45.svg"
+                }
+            ]
+        },
+        {
+            "id": "seltjarnarnes",
+            "name": "Seltjarnarnes",
+            "results": [
+                {
+                    "party": "S - Samfylkingin",
+                    "percent": 0,
+                    "seats": 0,
+                    "change": 0,
+                    "color": "#D04848",
+                    "logo": "https://visir.is/static/files/uploads/s_seltjarnarnesi45.png"
+                },
+                {
+                    "party": "M - Miðflokkurinn",
+                    "percent": 0,
+                    "seats": 0,
+                    "change": 0,
+                    "color": "#3A5981",
+                    "logo": "https://visir.is/static/files/uploads/midflokkurinn45.svg"
+                },
+                {
+                    "party": "D - Sjálfstæðisflokkur",
+                    "percent": 0,
+                    "seats": 0,
+                    "change": 0,
+                    "color": "#5A8ED4",
+                    "logo": "https://visir.is/static/files/uploads/falkinn45.png"
+                }
+            ]
+        },
+        {
+            "id": "gardabaer",
+            "name": "Garðabær",
+            "results": [
+                {
+                    "party": "S - Samfylkingin",
+                    "percent": 0,
+                    "seats": 0,
+                    "change": 0,
+                    "color": "#D04848",
+                    "logo": "https://visir.is/static/files/uploads/samfylkingin3.svg"
+                },
+                {
+                    "party": "M - Miðflokkurinn",
+                    "percent": 0,
+                    "seats": 0,
+                    "change": 0,
+                    "color": "#3A5981",
+                    "logo": "https://visir.is/static/files/uploads/midflokkurinn45.svg"
+                },
+                {
+                    "party": "G - Garðabæjarlistinn",
+                    "percent": 0,
+                    "seats": 0,
+                    "change": 0,
+                    "color": "#E9BB62",
+                    "logo": "https://visir.is/static/files/uploads/gardabaejarlistinn45.png"
+                },
+                {
+                    "party": "D - Sjálfstæðisflokkur",
+                    "percent": 0,
+                    "seats": 0,
+                    "change": 0,
+                    "color": "#5A8ED4",
+                    "logo": "https://visir.is/static/files/uploads/falkinn45.png"
+                },
+                {
+                    "party": "C - Viðreisn",
+                    "percent": 0,
+                    "seats": 0,
+                    "change": 0,
+                    "color": "#DC913A",
+                    "logo": "https://visir.is/static/files/uploads/vidreisn45.svg"
+                },
+                {
+                    "party": "B - Framsóknarflokkur",
+                    "percent": 0,
+                    "seats": 0,
+                    "change": 0,
+                    "color": "#2B6543",
+                    "logo": "https://visir.is/static/files/uploads/framsokn45.svg"
+                }
+            ]
+        },
+        {
+            "id": "hafnarfjordur",
+            "name": "Hafnarfjörður",
+            "results": [
+                {
+                    "party": "S - Samfylkingin",
+                    "percent": 11.1,
+                    "seats": 1,
+                    "change": -1,
+                    "color": "#D04848",
+                    "logo": "https://visir.is/static/files/uploads/samfylkingin3.svg"
+                },
+                {
+                    "party": "M - Miðflokkurinn",
+                    "percent": 2.4,
+                    "seats": 0,
+                    "change": -1,
+                    "color": "#3A5981",
+                    "logo": "https://visir.is/static/files/uploads/midflokkurinn45.svg"
+                },
+                {
+                    "party": "D - Sjálfstæðisflokkur",
+                    "percent": 31.8,
+                    "seats": 4,
+                    "change": -1,
+                    "color": "#5A8ED4",
+                    "logo": "https://visir.is/static/files/uploads/falkinn45.png"
+                },
+                {
+                    "party": "C - Viðreisn",
+                    "percent": 11,
+                    "seats": 1,
+                    "change": 0,
+                    "color": "#DC913A",
+                    "logo": "https://visir.is/static/files/uploads/vidreisn45.svg"
+                },
+                {
+                    "party": "B - Framsóknarflokkur",
+                    "percent": 15.9,
+                    "seats": 2,
+                    "change": 1,
+                    "color": "#2B6543",
+                    "logo": "https://visir.is/static/files/uploads/framsokn45.svg"
+                },
+                {
+                    "party": "A - Vinstrið",
+                    "percent": 25,
+                    "seats": 3,
+                    "change": 0,
+                    "color": "#2B6543",
+                    "logo": "https://visir.is/static/files/uploads/vinstrid45b.svg"
+                }
+            ]
+        },
+        {
+            "id": "mosfellsbaer",
+            "name": "Mosfellsbær",
+            "results": [
+                {
+                    "party": "S - Samfylkingin",
+                    "percent": 0,
+                    "seats": 0,
+                    "change": 0,
+                    "color": "#D04848",
+                    "logo": "https://visir.is/static/files/uploads/samfylkingin3.svg"
+                },
+                {
+                    "party": "M - Miðflokkurinn",
+                    "percent": 0,
+                    "seats": 0,
+                    "change": 0,
+                    "color": "#3A5981",
+                    "logo": "https://visir.is/static/files/uploads/midflokkurinn45.svg"
+                },
+                {
+                    "party": "L - Vinir Mosfellsbæjar",
+                    "percent": 0,
+                    "seats": 0,
+                    "change": 0,
+                    "color": "#D8D659",
+                    "logo": "https://visir.is/static/files/uploads/vinirmosfellsbaejar45.png"
+                },
+                {
+                    "party": "D - Sjálfstæðisflokkur",
+                    "percent": 0,
+                    "seats": 0,
+                    "change": 0,
+                    "color": "#5A8ED4",
+                    "logo": "https://visir.is/static/files/uploads/falkinn45.png"
+                },
+                {
+                    "party": "C - Viðreisn",
+                    "percent": 0,
+                    "seats": 0,
+                    "change": 0,
+                    "color": "#DC913A",
+                    "logo": "https://visir.is/static/files/uploads/vidreisn45.svg"
+                },
+                {
+                    "party": "B - Framsóknarflokkur",
+                    "percent": 0,
+                    "seats": 0,
+                    "change": 0,
+                    "color": "#2B6543",
+                    "logo": "https://visir.is/static/files/uploads/framsokn45.svg"
+                }
+            ]
+        },
+        {
+            "id": "reykjanesbaer",
+            "name": "Reykjanesbær",
+            "results": [
+                {
+                    "party": "S - Samfylkingin",
+                    "percent": 0,
+                    "seats": 0,
+                    "change": 0,
+                    "color": "#D04848",
+                    "logo": "https://visir.is/static/files/uploads/samfylkingin3.svg"
+                },
+                {
+                    "party": "M - Miðflokkurinn",
+                    "percent": 0,
+                    "seats": 0,
+                    "change": 0,
+                    "color": "#3A5981",
+                    "logo": "https://visir.is/static/files/uploads/midflokkurinn45.svg"
+                },
+                {
+                    "party": "D - Sjálfstæðisflokkur",
+                    "percent": 0,
+                    "seats": 0,
+                    "change": 0,
+                    "color": "#5A8ED4",
+                    "logo": "https://visir.is/static/files/uploads/falkinn45.png"
+                },
+                {
+                    "party": "C - Viðreisn",
+                    "percent": 0,
+                    "seats": 0,
+                    "change": 0,
+                    "color": "#DC913A",
+                    "logo": "https://visir.is/static/files/uploads/vidreisn45.svg"
+                },
+                {
+                    "party": "B - Framsóknarflokkur",
+                    "percent": 0,
+                    "seats": 0,
+                    "change": 0,
+                    "color": "#2B6543",
+                    "logo": "https://visir.is/static/files/uploads/framsokn45.svg"
+                }
+            ]
+        },
+        {
+            "id": "grindavik",
+            "name": "Grindavík",
+            "results": [
+                {
+                    "party": "M - Miðflokkurinn",
+                    "percent": 0,
+                    "seats": 0,
+                    "change": 0,
+                    "color": "#3A5981",
+                    "logo": "https://visir.is/static/files/uploads/midflokkurinn45.svg"
+                },
+                {
+                    "party": "D - Sjálfstæðisflokkur",
+                    "percent": 0,
+                    "seats": 0,
+                    "change": 0,
+                    "color": "#5A8ED4",
+                    "logo": "https://visir.is/static/files/uploads/falkinn45.png"
+                },
+                {
+                    "party": "B - Framsóknarflokkur",
+                    "percent": 0,
+                    "seats": 0,
+                    "change": 0,
+                    "color": "#2B6543",
+                    "logo": "https://visir.is/static/files/uploads/framsokn45.svg"
+                }
+            ]
+        },
+        {
+            "id": "sudurnesjabaer",
+            "name": "Suðurnesjabær",
+            "results": [
+                {
+                    "party": "S - Samfylkingin",
+                    "percent": 28.7,
+                    "seats": 3,
+                    "change": 0,
+                    "color": "#D04848",
+                    "logo": "https://visir.is/static/files/uploads/samfylkingin3.svg"
+                },
+                {
+                    "party": "M - Miðflokkurinn",
+                    "percent": 4.4,
+                    "seats": 0,
+                    "change": 0,
+                    "color": "#3A5981",
+                    "logo": "https://visir.is/static/files/uploads/midflokkurinn45.svg"
+                },
+                {
+                    "party": "D - Sjálfstæðisflokkur",
+                    "percent": 28.7,
+                    "seats": 3,
+                    "change": 0,
+                    "color": "#5A8ED4",
+                    "logo": "https://visir.is/static/files/uploads/falkinn45.png"
+                },
+                {
+                    "party": "B - Framsóknarflokkur",
+                    "percent": 38.2,
+                    "seats": 3,
+                    "change": 2,
+                    "color": "#2B6543",
+                    "logo": "https://visir.is/static/files/uploads/framsokn45.svg"
+                }
+            ]
+        },
+        {
+            "id": "akranes",
+            "name": "Akranes",
+            "results": [
+                {
+                    "party": "S - Samfylkingin",
+                    "percent": 0,
+                    "seats": 0,
+                    "change": 0,
+                    "color": "#D04848",
+                    "logo": "https://visir.is/static/files/uploads/samfylkingin3.svg"
+                },
+                {
+                    "party": "M - Miðflokkurinn",
+                    "percent": 0,
+                    "seats": 0,
+                    "change": 0,
+                    "color": "#3A5981",
+                    "logo": "https://visir.is/static/files/uploads/midflokkurinn45.svg"
+                },
+                {
+                    "party": "D - Sjálfstæðisflokkur",
+                    "percent": 0,
+                    "seats": 0,
+                    "change": 0,
+                    "color": "#5A8ED4",
+                    "logo": "https://visir.is/static/files/uploads/falkinn45.png"
+                },
+                {
+                    "party": "C - Viðreisn",
+                    "percent": 0,
+                    "seats": 0,
+                    "change": 0,
+                    "color": "#DC913A",
+                    "logo": "https://visir.is/static/files/uploads/vidreisn45.svg"
+                },
+                {
+                    "party": "B - Framsóknarflokkur",
+                    "percent": 0,
+                    "seats": 0,
+                    "change": 0,
+                    "color": "#2B6543",
+                    "logo": "https://visir.is/static/files/uploads/framsokn45.svg"
+                }
+            ]
+        },
+        {
+            "id": "borgarbyggd",
+            "name": "Borgarbyggð",
+            "results": [
+                {
+                    "party": "M - Miðflokkurinn",
+                    "percent": 0,
+                    "seats": 0,
+                    "change": 0,
+                    "color": "#3A5981",
+                    "logo": "https://visir.is/static/files/uploads/midflokkurinn45.svg"
+                },
+                {
+                    "party": "D - Sjálfstæðisflokkur",
+                    "percent": 0,
+                    "seats": 0,
+                    "change": 0,
+                    "color": "#5A8ED4",
+                    "logo": "https://visir.is/static/files/uploads/falkinn45.png"
+                },
+                {
+                    "party": "B - Framsóknarflokkur",
+                    "percent": 0,
+                    "seats": 0,
+                    "change": 0,
+                    "color": "#2B6543",
+                    "logo": "https://visir.is/static/files/uploads/framsokn45.svg"
+                },
+                {
+                    "party": "A - Viðreisn og Samfó",
+                    "percent": 0,
+                    "seats": 0,
+                    "change": 0,
+                    "color": "#D04848",
+                    "logo": "https://visir.is/static/files/uploads/borgarbyggdarlistinn_xa45.png"
+                }
+            ]
+        },
+        {
+            "id": "isafjordur",
+            "name": "Ísafjörður",
+            "results": [
+                {
+                    "party": "S - Samfylkingin",
+                    "percent": 0,
+                    "seats": 0,
+                    "change": 0,
+                    "color": "#D04848",
+                    "logo": "https://visir.is/static/files/uploads/samfylkingin3.svg"
+                },
+                {
+                    "party": "M - Miðflokkurinn",
+                    "percent": 0,
+                    "seats": 0,
+                    "change": 0,
+                    "color": "#3A5981",
+                    "logo": "https://visir.is/static/files/uploads/midflokkurinn45.svg"
+                },
+                {
+                    "party": "D - Sjálfstæðisflokkur",
+                    "percent": 0,
+                    "seats": 0,
+                    "change": 0,
+                    "color": "#5A8ED4",
+                    "logo": "https://visir.is/static/files/uploads/falkinn45.png"
+                },
+                {
+                    "party": "C - Viðreisn",
+                    "percent": 0,
+                    "seats": 0,
+                    "change": 0,
+                    "color": "#DC913A",
+                    "logo": "https://visir.is/static/files/uploads/vidreisn45.svg"
+                },
+                {
+                    "party": "B - Framsóknarflokkur",
+                    "percent": 0,
+                    "seats": 0,
+                    "change": 0,
+                    "color": "#2B6543",
+                    "logo": "https://visir.is/static/files/uploads/framsokn45.svg"
+                }
+            ]
+        },
+        {
+            "id": "skagafjordur",
+            "name": "Skagafjörður",
+            "results": [
+                {
+                    "party": "M - Miðflokkurinn",
+                    "percent": 0,
+                    "seats": 0,
+                    "change": 0,
+                    "color": "#3A5981",
+                    "logo": "https://visir.is/static/files/uploads/midflokkurinn45.svg"
+                },
+                {
+                    "party": "L - Byggðalistinn",
+                    "percent": 0,
+                    "seats": 0,
+                    "change": 0,
+                    "color": "#C10001",
+                    "logo": "https://visir.is/static/files/uploads/byggdalistinn_skagafirdi45.png"
+                },
+                {
+                    "party": "D - Sjálfstæðisflokkur",
+                    "percent": 0,
+                    "seats": 0,
+                    "change": 0,
+                    "color": "#5A8ED4",
+                    "logo": "https://visir.is/static/files/uploads/falkinn45.png"
+                },
+                {
+                    "party": "B - Framsóknarflokkur",
+                    "percent": 0,
+                    "seats": 0,
+                    "change": 0,
+                    "color": "#2B6543",
+                    "logo": "https://visir.is/static/files/uploads/framsokn45.svg"
+                }
+            ]
+        },
+        {
+            "id": "akureyri",
+            "name": "Akureyri",
+            "results": [
+                {
+                    "party": "V - Vinstri græn",
+                    "percent": 0,
+                    "seats": 0,
+                    "change": 0,
+                    "color": "#80AD81",
+                    "logo": "https://visir.is/static/files/uploads/vg45.svg"
+                },
+                {
+                    "party": "S - Samfylkingin",
+                    "percent": 0,
+                    "seats": 0,
+                    "change": 0,
+                    "color": "#D04848",
+                    "logo": "https://visir.is/static/files/uploads/samfylkingin3.svg"
+                },
+                {
+                    "party": "M - Miðflokkurinn",
+                    "percent": 0,
+                    "seats": 0,
+                    "change": 0,
+                    "color": "#3A5981",
+                    "logo": "https://visir.is/static/files/uploads/midflokkurinn45.svg"
+                },
+                {
+                    "party": "L - Bæjarlisti Akureyrar",
+                    "percent": 0,
+                    "seats": 0,
+                    "change": 0,
+                    "color": "#DF7E46",
+                    "logo": "https://visir.is/static/files/uploads/llistinn_akureyri45.png"
+                },
+                {
+                    "party": "D - Sjálfstæðisflokkur",
+                    "percent": 0,
+                    "seats": 0,
+                    "change": 0,
+                    "color": "#5A8ED4",
+                    "logo": "https://visir.is/static/files/uploads/falkinn45.png"
+                },
+                {
+                    "party": "C - Viðreisn",
+                    "percent": 0,
+                    "seats": 0,
+                    "change": 0,
+                    "color": "#DC913A",
+                    "logo": "https://visir.is/static/files/uploads/vidreisn45.svg"
+                },
+                {
+                    "party": "B - Framsóknarflokkur",
+                    "percent": 0,
+                    "seats": 0,
+                    "change": 0,
+                    "color": "#2B6543",
+                    "logo": "https://visir.is/static/files/uploads/framsokn45.svg"
+                },
+                {
+                    "party": "A - Akureyrarlistinn",
+                    "percent": 0,
+                    "seats": 0,
+                    "change": 0,
+                    "color": "#178CB1",
+                    "logo": "https://visir.is/static/files/uploads/akureyrarlistinn_xa45.svg"
+                }
+            ]
+        },
+        {
+            "id": "nordurthing",
+            "name": "Norðurþing",
+            "results": [
+                {
+                    "party": "V - Vinstri græn",
+                    "percent": 0,
+                    "seats": 0,
+                    "change": 0,
+                    "color": "#80AD81",
+                    "logo": "https://visir.is/static/files/uploads/vg45.svg"
+                },
+                {
+                    "party": "S - Samfylkingin",
+                    "percent": 0,
+                    "seats": 0,
+                    "change": 0,
+                    "color": "#D04848",
+                    "logo": "https://visir.is/static/files/uploads/samfylkingin3.svg"
+                },
+                {
+                    "party": "Ó - Óskalistinn",
+                    "percent": 0,
+                    "seats": 0,
+                    "change": 0,
+                    "color": "#DF7E46 ",
+                    "logo": "https://visir.is/static/files/uploads/oskalistinn45.png"
+                },
+                {
+                    "party": "M - Miðflokkurinn",
+                    "percent": 0,
+                    "seats": 0,
+                    "change": 0,
+                    "color": "#3A5981",
+                    "logo": "https://visir.is/static/files/uploads/midflokkurinn45.svg"
+                },
+                {
+                    "party": "D - Sjálfstæðisflokkur",
+                    "percent": 0,
+                    "seats": 0,
+                    "change": 0,
+                    "color": "#5A8ED4",
+                    "logo": "https://visir.is/static/files/uploads/falkinn45.png"
+                },
+                {
+                    "party": "B - Framsóknarflokkur",
+                    "percent": 0,
+                    "seats": 0,
+                    "change": 0,
+                    "color": "#2B6543",
+                    "logo": "https://visir.is/static/files/uploads/framsokn45.svg"
+                }
+            ]
+        },
+        {
+            "id": "fjallabyggd",
+            "name": "Fjallabyggð",
+            "results": [
+                {
+                    "party": "S - Samfylkingin",
+                    "percent": 0,
+                    "seats": 0,
+                    "change": 0,
+                    "color": "#D04848",
+                    "logo": "https://visir.is/static/files/uploads/samfylkingin3.svg"
+                },
+                {
+                    "party": "H - Listi fyrir heildina",
+                    "percent": 0,
+                    "seats": 0,
+                    "change": 0,
+                    "color": "#DF7E46",
+                    "logo": "https://visir.is/static/files/uploads/xh_fjallabyggd45.png"
+                },
+                {
+                    "party": "D - Sjálfstæðisflokkur",
+                    "percent": 0,
+                    "seats": 0,
+                    "change": 0,
+                    "color": "#5A8ED4",
+                    "logo": "https://visir.is/static/files/uploads/falkinn45.png"
+                }
+            ]
+        },
+        {
+            "id": "fjardabyggd",
+            "name": "Fjarðabyggð",
+            "results": [
+                {
+                    "party": "S - Samfylkingin",
+                    "percent": 0,
+                    "seats": 0,
+                    "change": 0,
+                    "color": "#D04848",
+                    "logo": "https://visir.is/static/files/uploads/samfylkingin3.svg"
+                },
+                {
+                    "party": "M - Miðflokkurinn",
+                    "percent": 0,
+                    "seats": 0,
+                    "change": 0,
+                    "color": "#3A5981",
+                    "logo": "https://visir.is/static/files/uploads/midflokkurinn45.svg"
+                },
+                {
+                    "party": "D - Sjálfstæðisflokkur",
+                    "percent": 0,
+                    "seats": 0,
+                    "change": 0,
+                    "color": "#5A8ED4",
+                    "logo": "https://visir.is/static/files/uploads/falkinn45.png"
+                },
+                {
+                    "party": "B - Framsóknarflokkur",
+                    "percent": 0,
+                    "seats": 0,
+                    "change": 0,
+                    "color": "#2B6543",
+                    "logo": "https://visir.is/static/files/uploads/framsokn45.svg"
+                }
+            ]
+        },
+        {
+            "id": "mulathing",
+            "name": "Múlaþing",
+            "results": [
+                {
+                    "party": "V - Vinstri græn",
+                    "percent": 0,
+                    "seats": 0,
+                    "change": 0,
+                    "color": "#80AD81",
+                    "logo": "https://visir.is/static/files/uploads/vg45.svg"
+                },
+                {
+                    "party": "M - Miðflokkurinn",
+                    "percent": 0,
+                    "seats": 0,
+                    "change": 0,
+                    "color": "#3A5981",
+                    "logo": "https://visir.is/static/files/uploads/midflokkurinn45.svg"
+                },
+                {
+                    "party": "L - Austurlistinn",
+                    "percent": 0,
+                    "seats": 0,
+                    "change": 0,
+                    "color": "#7D80BE",
+                    "logo": "https://visir.is/static/files/uploads/vg_ohadir_mulathing45.png"
+                },
+                {
+                    "party": "D - Sjálfstæðisflokkur",
+                    "percent": 0,
+                    "seats": 0,
+                    "change": 0,
+                    "color": "#5A8ED4",
+                    "logo": "https://visir.is/static/files/uploads/falkinn45.png"
+                },
+                {
+                    "party": "B - Framsóknarflokkur",
+                    "percent": 0,
+                    "seats": 0,
+                    "change": 0,
+                    "color": "#2B6543",
+                    "logo": "https://visir.is/static/files/uploads/framsokn45.svg"
+                }
+            ]
+        },
+        {
+            "id": "vestmannaeyjar",
+            "name": "Vestmannaeyjar",
+            "results": [
+                {
+                    "party": "M - Miðflokkurinn",
+                    "percent": 0,
+                    "seats": 0,
+                    "change": 0,
+                    "color": "#3A5981",
+                    "logo": "https://visir.is/static/files/uploads/midflokkurinn45.svg"
+                },
+                {
+                    "party": "E - Eyjalistinn",
+                    "percent": 0,
+                    "seats": 0,
+                    "change": 0,
+                    "color": "#DD806B",
+                    "logo": "https://visir.is/static/files/uploads/eyjalistinn45.png"
+                },
+                {
+                    "party": "D - Sjálfstæðisflokkur",
+                    "percent": 0,
+                    "seats": 0,
+                    "change": 0,
+                    "color": "#5A8ED4",
+                    "logo": "https://visir.is/static/files/uploads/falkinn45.png"
+                }
+            ]
+        },
+        {
+            "id": "arborg",
+            "name": "Árborg",
+            "results": [
+                {
+                    "party": "S - Samfylkingin",
+                    "percent": 0,
+                    "seats": 0,
+                    "change": 0,
+                    "color": "#D04848",
+                    "logo": "https://visir.is/static/files/uploads/samfylkingin3.svg"
+                },
+                {
+                    "party": "D - Sjálfstæðisflokkur",
+                    "percent": 0,
+                    "seats": 0,
+                    "change": 0,
+                    "color": "#5A8ED4",
+                    "logo": "https://visir.is/static/files/uploads/falkinn45.png"
+                },
+                {
+                    "party": "C - Viðreisn",
+                    "percent": 0,
+                    "seats": 0,
+                    "change": 0,
+                    "color": "#DC913A",
+                    "logo": "https://visir.is/static/files/uploads/vidreisn45.svg"
+                },
+                {
+                    "party": "B - Framsóknarflokkur",
+                    "percent": 0,
+                    "seats": 0,
+                    "change": 0,
+                    "color": "#2B6543",
+                    "logo": "https://visir.is/static/files/uploads/framsokn45.svg"
+                }
+            ]
+        },
+        {
+            "id": "hornafjordur",
+            "name": "Hornafjörður",
+            "results": [
+                {
+                    "party": "M - Miðflokkurinn",
+                    "percent": 0,
+                    "seats": 0,
+                    "change": 0,
+                    "color": "#3A5981",
+                    "logo": "https://visir.is/static/files/uploads/midflokkurinn45.svg"
+                },
+                {
+                    "party": "K - Kex framboð",
+                    "percent": 0,
+                    "seats": 0,
+                    "change": 0,
+                    "color": "#BE838E",
+                    "logo": "https://visir.is/static/files/uploads/kex_hornafirdi45.png"
+                },
+                {
+                    "party": "D - Sjálfstæðisflokkur",
+                    "percent": 0,
+                    "seats": 0,
+                    "change": 0,
+                    "color": "#5A8ED4",
+                    "logo": "https://visir.is/static/files/uploads/falkinn45.png"
+                },
+                {
+                    "party": "B - Framsóknarflokkur",
+                    "percent": 0,
+                    "seats": 0,
+                    "change": 0,
+                    "color": "#2B6543",
+                    "logo": "https://visir.is/static/files/uploads/framsokn45.svg"
+                }
+            ]
+        },
+        {
+            "id": "rangarthingeystra",
+            "name": "Rangárþing eystra",
+            "results": [
+                {
+                    "party": "N - N-listinn",
+                    "percent": 0,
+                    "seats": 0,
+                    "change": 0,
+                    "color": "#178CB1",
+                    "logo": "https://visir.is/static/files/uploads/nlisti_rangareystra45.png"
+                },
+                {
+                    "party": "D - Sjálfstæðisflokkur",
+                    "percent": 0,
+                    "seats": 0,
+                    "change": 0,
+                    "color": "#5A8ED4",
+                    "logo": "https://visir.is/static/files/uploads/falkinn45.png"
+                },
+                {
+                    "party": "B - Framsóknarflokkur",
+                    "percent": 0,
+                    "seats": 0,
+                    "change": 0,
+                    "color": "#2B6543",
+                    "logo": "https://visir.is/static/files/uploads/framsokn45.svg"
+                }
+            ]
+        },
+        {
+            "id": "rangarthingytra",
+            "name": "Rangárþing ytra",
+            "results": [
+                {
+                    "party": "D - Sjálfstæðisflokkur",
+                    "percent": 0,
+                    "seats": 0,
+                    "change": 0,
+                    "color": "#5A8ED4",
+                    "logo": "https://visir.is/static/files/uploads/falkinn45.png"
+                },
+                {
+                    "party": "Á - Á - listinn ",
+                    "percent": 0,
+                    "seats": 0,
+                    "change": 0,
+                    "color": "#DF7E46",
+                    "logo": "https://visir.is/static/files/uploads/alistinn_ragnarthingytra45.png"
+                }
+            ]
+        },
+        {
+            "id": "hveragerdi",
+            "name": "Hveragerði",
+            "results": [
+                {
+                    "party": "S - Samfylkingin",
+                    "percent": 0,
+                    "seats": 0,
+                    "change": 0,
+                    "color": "#D04848",
+                    "logo": "https://visir.is/static/files/uploads/samfylkingin3.svg"
+                },
+                {
+                    "party": "O - Okkar Hveragerði",
+                    "percent": 0,
+                    "seats": 0,
+                    "change": 0,
+                    "color": "#DF7E46",
+                    "logo": "https://visir.is/static/files/uploads/xo_okkarhveragerdi45.png"
+                },
+                {
+                    "party": "D - Sjálfstæðisflokkur",
+                    "percent": 0,
+                    "seats": 0,
+                    "change": 0,
+                    "color": "#5A8ED4",
+                    "logo": "https://visir.is/static/files/uploads/falkinn45.png"
+                },
+                {
+                    "party": "B - Framsóknarflokkur",
+                    "percent": 0,
+                    "seats": 0,
+                    "change": 0,
+                    "color": "#2B6543",
+                    "logo": "https://visir.is/static/files/uploads/framsokn45.svg"
+                }
+            ]
+        },
+        {
+            "id": "olfus",
+            "name": "Ölfus",
+            "results": [
+                {
+                    "party": "S - Samfylkingin",
+                    "percent": 0,
+                    "seats": 0,
+                    "change": 0,
+                    "color": "#D04848",
+                    "logo": "https://visir.is/static/files/uploads/samfylkingin3.svg"
+                },
+                {
+                    "party": "D - Sjálfstæðisflokkur",
+                    "percent": 0,
+                    "seats": 0,
+                    "change": 0,
+                    "color": "#5A8ED4",
+                    "logo": "https://visir.is/static/files/uploads/falkinn45.png"
+                }
+            ]
+        }
+    ]
+}
