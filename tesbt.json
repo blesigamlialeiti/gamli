@@ -1,0 +1,86 @@
+[
+    [
+    "Landið allt",
+        [
+            "Já",
+            "Nei"
+        ],
+        [
+            "Landið allt",
+            52.8,
+            47.2
+        ]
+    ],
+    [
+        [
+            "Norðausturkjördæmi",
+            "Já",
+            "Nei"
+        ],
+        [
+            "Norðausturkjördæmi",
+            52.4,
+            47.6
+        ]
+    ],
+    [
+        [
+            "Norðvesturkjördæmi",
+            "Já",
+            "Nei"
+        ],
+        [
+            "Norðvesturkjördæmi",
+            60,
+            40
+        ]
+    ],
+    [
+        [
+            "Reykjavík norður",
+            "Já",
+            "Nei"
+        ],
+        [
+            "Reykjavík norður",
+            70,
+            30
+        ]
+    ],
+    [
+        [
+            "Reykjavík suður",
+            "Já",
+            "Nei"
+        ],
+        [
+            "Reykjavík suður",
+            0,
+            0
+        ]
+    ],
+    [
+        [
+            "Suðurkjördæmi",
+            "Já",
+            "Nei"
+        ],
+        [
+            "Suðurkjördæmi",
+            53.1,
+            46.9
+        ]
+    ],
+    [
+        [
+            "Suðvesturkjördæmi",
+            "Já",
+            "Nei"
+        ],
+        [
+            "Suðvesturkjördæmi",
+            70,
+            30
+        ]
+    ]
+]
